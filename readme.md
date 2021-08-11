@@ -1,9 +1,9 @@
 # Отчёт о тестировании Credit Card Number Validator
 ## Краткое описание
 
-11.08.2021 21:30 - 11.08.2021 22:00 было проведено функциональное тестирование приложения Credit Card Number Validator.
+11.08.2021 21:30 - 11.08.2021 23:00 было проведено функциональное тестирование приложения Credit Card Number Validator.
 
-На тестирование затрачено: 0,5 часа
+На тестирование затрачено: 1,5 часа
 
 В результате тестирования выявлены следующие дефекты:
 * [Данные карты Maestro не проходят валидацию в приложении Credit Card Number Validator](https://github.com/Chzhanchik/java-1/issues/1)
@@ -16,7 +16,6 @@
 
 В процессе тестирования использовались следующие артефакты:
 * [баг-репорты](https://github.com/Chzhanchik/java-1/issues)
-* [код от разработчика](https://github.com/Chzhanchik/java-1/blob/master/Main.java.html)
 
 В качестве тестовых данных использовались данные [cardguru.io](https://cardguru.io/credit-card-generator/mir):
 
