@@ -16,6 +16,7 @@
 
 В процессе тестирования использовались следующие артефакты:
 * [баг-репорты](https://github.com/Chzhanchik/java-1/issues)
+* [код разработчика](https://github.com/Chzhanchik/java-1/blob/master/Main.java.html)
 
 В качестве тестовых данных использовались данные [cardguru.io](https://cardguru.io/credit-card-generator/mir):
 
