@@ -6,16 +6,15 @@
 На тестирование затрачено: 1,5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Данные карты Maestro не проходят валидацию в приложении Credit Card Number Validator](https://github.com/Chzhanchik/java-1/issues/1)
-* [Данные карты JCB не проходят валидацию в приложении Credit Card Number Validator](https://github.com/Chzhanchik/java-1/issues/2)
-* [Данные карты Discover не проходят валидацию в приложении Credit Card Number Validator](https://github.com/Chzhanchik/java-1/issues/3)
-* [Данные карты American Express не проходят валидацию в приложении Credit Card Number Validator](https://github.com/Chzhanchik/java-1/issues/4)
+* [Данные карты Maestro не проходят валидацию](https://github.com/Chzhanchik/java-1/issues/1)
+* [Данные карты JCB не проходят валидацию](https://github.com/Chzhanchik/java-1/issues/2)
+* [Данные карты Discover не проходят валидацию](https://github.com/Chzhanchik/java-1/issues/3)
+* [Данные карты American Express не проходят валидацию](https://github.com/Chzhanchik/java-1/issues/4)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [баг-репорты](https://github.com/Chzhanchik/java-1/issues)
 * [код разработчика](https://github.com/Chzhanchik/java-1/blob/master/Main.java.html)
 
 В качестве тестовых данных использовались данные [cardguru.io](https://cardguru.io/credit-card-generator/mir):
@@ -55,3 +54,4 @@ American Express (ожидаемый результат - данные карт�
 Тестирование производилось в следующем окружении:
 *  macOS 11.2.2 (20D80)
 * IntelliJ IDEA 2021.2 (Community Edition)
+* java version 11.0.5
